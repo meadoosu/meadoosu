@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm meadoosu</h1>
+<h1 align="center">hai im angle/meadoosu !</h1>
 <p align="center">
-  A developer with a focus on web development, currently building personal projects and expanding into networking and cybersecurity.
+  A developer with a focus on web development, currently building personal projects and expanding into networking with working on a homelab =}
 </p>
 
 <hr>
@@ -59,6 +59,4 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meadoosu&show_icons=true&theme=default&hide_border=true" alt="meadoosu GitHub stats"/>
-</p>
+
