@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<h3> s </h3>
+<h3> "Make it count." - Casey Neistat</h3>
 
 
 
